@@ -52,7 +52,7 @@ jdbc.password=123456
 
 sqlMapConfig.xml
 
-```xml
+```
 <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
@@ -220,8 +220,6 @@ public interface UserMapper {
 </code-group>
 
 结果测试
-
-</code-group>
 
 UserMapper
 
