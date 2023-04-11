@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress"
 import theme from "./theme"
 import { registerComponentsPlugin } from "@vuepress/plugin-register-components"
 import { path } from "@vuepress/utils"
-import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { searchProPlugin } from "vuepress-plugin-search-pro"
 
 export default defineUserConfig({
     base: "/",
