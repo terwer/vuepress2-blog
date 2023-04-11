@@ -3,9 +3,9 @@ import { navbar } from "vuepress-theme-hope"
 export const defaultNavbar = navbar([
     "/",
     {
-        text: "文章",
+        text: "文档",
         icon: "edit",
-        link: "/post/",
+        link: "/docs/",
     },
     {
         text: "随笔",

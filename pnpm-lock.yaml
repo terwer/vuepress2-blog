@@ -1,5 +1,10 @@
 lockfileVersion: '6.0'
 
+dependencies:
+  lxgw-wenkai-lite-webfont:
+    specifier: ^1.7.0
+    version: 1.7.0
+
 devDependencies:
   '@vuepress/client':
     specifier: 2.0.0-beta.61
@@ -4129,6 +4134,10 @@ packages:
     dependencies:
       yallist: 4.0.0
     dev: true
+
+  /lxgw-wenkai-lite-webfont@1.7.0:
+    resolution: {integrity: sha512-VcQYNRpdXAxaZsJ18rfT1mmAreGqkIFNZ/9pdVLbT2Tkb+2lLWJDXq4zYxMEk9AcecSnxO31R2LHh5ieLlxjRg==}
+    dev: false
 
   /magic-string@0.25.9:
     resolution: {integrity: sha512-RmF0AsMzgt25qzqqLc1+MbHmhdx0ojF2Fvs4XnOqz2ZOBXzzkEwc/dJQZCYHAn7v1jbVOjAZfK8msRn4BxO4VQ==}

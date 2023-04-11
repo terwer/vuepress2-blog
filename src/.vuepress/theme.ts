@@ -69,7 +69,8 @@ export default hopeTheme({
             // sidebar: zhSidebar,
             // sidebar: "heading",
             sidebar: {
-                "/post/": "structure",
+                "/post/": false,
+                "/docs/": "structure",
 
                 // fallback
                 "/": [
@@ -103,7 +104,8 @@ export default hopeTheme({
 
             // sidebar
             sidebar: {
-                "/en/post/": "structure",
+                "/en/post/": false,
+                "/en/docs/": "structure",
 
                 // fallback
                 "/en/": [
@@ -141,7 +143,8 @@ export default hopeTheme({
             // sidebar: zhSidebar,
             // sidebar: "heading",
             sidebar: {
-                "/hk/post/": "structure",
+                "/hk/post/": false,
+                "/hk/docs/": "structure",
 
                 // fallback
                 "/hk/": [

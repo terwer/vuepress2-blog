@@ -3,9 +3,9 @@ import { navbar } from "vuepress-theme-hope"
 export const hkNavbar = navbar([
     "/hk/",
     {
-        text: "文章",
+        text: "文档",
         icon: "edit",
-        link: "/hk/post/",
+        link: "/hk/docs/",
     },
     {
         text: "隨筆",
