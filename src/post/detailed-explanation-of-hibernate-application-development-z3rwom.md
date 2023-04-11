@@ -137,7 +137,9 @@ timeline: false
 
 ## 域模型与关系模型不一致举例
 
-![image](assets/image-20221019230407-8uhuc31.png)​
+```
+![image](assets/image-20221019230407-8uhuc31.png)
+```
 
 ## 对象-关系映射的概念
 
