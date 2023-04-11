@@ -7,7 +7,7 @@ import { searchProPlugin } from "vuepress-plugin-search-pro";
 export default defineUserConfig({
     base: "/",
 
-    dest: "dist/packages/zhi-blog-vuepress",
+    dest: "src/.vuepress/dist",
 
     alias: [
         {
