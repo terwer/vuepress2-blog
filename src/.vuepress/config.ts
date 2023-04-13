@@ -3,7 +3,7 @@ import theme from "./theme"
 import {registerComponentsPlugin} from "@vuepress/plugin-register-components"
 import {path} from "@vuepress/utils"
 import {searchProPlugin} from "vuepress-plugin-search-pro"
-import {commentPlugin} from "vuepress-plugin-comment2";
+import {commentPlugin} from "vuepress-plugin-comment2"
 
 export default defineUserConfig({
     base: "/",
