@@ -1,14 +1,13 @@
 ---
 icon: info
-comment: true
 article: false
 timeline: false
+sidebar: false
+toc: false
 ---
 
 # 关于我
 
-一个后端老菜鸟
+## 我是谁
 
-:::tip 温馨提示
-由于缓存原因，如果评论框未显示，刷新一下当前页面即可。
-:::
+一个后端老菜鸟

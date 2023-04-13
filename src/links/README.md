@@ -1,15 +1,21 @@
 ---
 title: 友链💖
-sidebar: false
 article: false
 pageInfo: false
 lastUpdated: false
 editLink: false
 prev: false
 next: false
+sidebar: false
+toc: false
 ---
 
+## 我和我的朋友们
+
 <LinkLayout :linkList="linkList"/>
+
+
+## 加入我们
 
 <hr/>
 <p>在下方评论区留言申请加入我的友链，请按如下格式提供信息：</p>
@@ -19,10 +25,6 @@ next: false
 	<li>图片：https://terwer.space/logo.svg</li>
 	<li>链接：https://terwer.space</li>
 </ul>
-
-:::tip 温馨提示
-由于缓存原因，如果评论框未显示，刷新一下当前页面即可。
-:::
 
 <script>
 export default {
