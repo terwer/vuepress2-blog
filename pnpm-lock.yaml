@@ -16,9 +16,6 @@ devDependencies:
   vuepress:
     specifier: 2.0.0-beta.61
     version: 2.0.0-beta.61(@vuepress/client@2.0.0-beta.61)(vue@3.2.47)
-  vuepress-plugin-comment2:
-    specifier: 2.0.0-beta.203
-    version: 2.0.0-beta.203(vuepress@2.0.0-beta.61)
   vuepress-plugin-search-pro:
     specifier: 2.0.0-beta.203
     version: 2.0.0-beta.203(vuepress@2.0.0-beta.61)

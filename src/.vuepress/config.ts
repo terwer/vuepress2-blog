@@ -3,7 +3,6 @@ import theme from "./theme"
 import {registerComponentsPlugin} from "@vuepress/plugin-register-components"
 import {path} from "@vuepress/utils"
 import {searchProPlugin} from "vuepress-plugin-search-pro"
-import {commentPlugin} from "vuepress-plugin-comment2"
 
 export default defineUserConfig({
     base: "/",
@@ -26,18 +25,6 @@ export default defineUserConfig({
         searchProPlugin({
             // 配置选项
         }),
-        // https://plugin-comment2.vuejs.press/zh/
-        commentPlugin({
-            // 插件选项
-            provider: "Waline",
-            serverURL: "https://waline.terwergreen.com",
-            login: "disable",
-            dark: "auto",
-            wordLimit: 512
-
-            // provider: "Artalk",
-            // serverURL: "https://talk.terwergreen.com:8003",
-        })
     ],
 
     locales: {
