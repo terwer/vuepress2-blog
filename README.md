@@ -1,8 +1,8 @@
 # vuepress2-blog
 
-My blog auto build using vuepress 2 and vercel
+My blog auto build using vuepress2 and vercel
 
-[preview](https://terwer.space)
+[preview](https://www.terwer.space)
 
 ## Install
 
@@ -28,5 +28,5 @@ Output directory is `src/.vuepress/dist`
 
 Thanks to following plugins, these plugins make my blog more powerful
 
-- @vuepress/plugin-register-components
-- https://plugin-search-pro.vuejs.press/zh/
+- [@vuepress/plugin-register-components](https://vuepress.github.io/zh/reference/plugin/register-components.html)
+- [plugin-search-pro](https://plugin-search-pro.vuejs.press/zh/)
