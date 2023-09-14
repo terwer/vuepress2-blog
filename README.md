@@ -13,13 +13,13 @@ pnpm install
 ## Dev
 
 ```bash
-pnpm docs:clean-dev
+pnpm dev
 ```
 
-## Build
+## Update
 
 ```bash
-pnpm docs:build
+pnpm update
 ```
 
 Output directory is `src/.vuepress/dist`
