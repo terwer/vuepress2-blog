@@ -4,8 +4,8 @@ short_title: ''
 description: 第一个LaTeX文档——Hello world！。
 date: 2022-06-01 00:00:45
 category:
-  - 文本排版Latex新思路
   - 新笔记
+  - 文本排版Latex新思路
 tag:
   - latex
 article: true

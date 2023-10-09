@@ -4,8 +4,8 @@ short_title: ''
 description: CAP不可能同时满足，但是分区容错性对于分布式系统来说，是必须的。如果能够同时满足CAP就好了，于是出现了BASE理论。
 date: 2022-04-28 23:29:39
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - base

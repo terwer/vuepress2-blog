@@ -4,9 +4,9 @@ short_title: ''
 description: WSL2安装MySQL8.0和redis。
 date: 2022-05-15 16:36:07
 category:
+  - 开发流程
   - 开发效率
   - 过程改进
-  - 开发流程
 tag:
   - wsl
   - mysql

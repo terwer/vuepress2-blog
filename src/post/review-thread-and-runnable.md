@@ -4,8 +4,8 @@ short_title: ''
 description: jdk文档的描述threadathreadisathreadofexecutioninaprogramthejavavirtualmachineallowsanapplicationtohavemultiplethreadsofexecutionrunningconcurrentlyeverythreadhasaprioritythreadswithhigherpriorityareexecutedinpreferencetothreadswithlowerpriorityeachthreadmayorm
 date: 2022-11-08 20:13:45
 category:
-  - 并发新思路
   - 新笔记
+  - 并发新思路
 tag:
   - 并发
   - 回顾

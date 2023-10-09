@@ -4,8 +4,8 @@ short_title: ''
 description: 一对一查询需求用户表和订单表的关系为_一个用户可以有多个订单一个订单只能从属于一个用户一对一查询需求_查询一个订单同时查询出该订单所对应的用户对应的sql语句_selectfromordersouseruwhereouid=uid查询结果如下_idordertimetotaluididusernamepasswordbirthday__lucy____lucy____tom__需求分析具体实现创建user和order实体user用户信息@name_user@author_terwer@date__clas
 date: 2022-08-30 11:27:13
 category:
-  - MyBatis
   - 开源框架
+  - MyBatis
   - 后端开发
 tag:
   - framework

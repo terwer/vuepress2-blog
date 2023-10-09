@@ -4,8 +4,8 @@ short_title: ''
 description: 为了应对瞬间高并发的流量。
 date: 2022-05-04 17:31:20
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - service

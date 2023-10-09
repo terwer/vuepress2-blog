@@ -4,8 +4,8 @@ short_title: ''
 description: jdbc的问题分析核心实现packagetest_importjavasqlconnection_importjavasqldrivermanager_importjavasqlpreparedstatement_importjavasqlresultset_at_authorterwerat_descriptionat_create_publicclassmain{publicstaticvoidmain(string[]args){connectionconnection=null_prepareds
 date: 2022-08-27 16:16:11
 category:
-  - MyBatis
   - 开源框架
+  - MyBatis
   - 后端开发
 tag:
   - 数据库

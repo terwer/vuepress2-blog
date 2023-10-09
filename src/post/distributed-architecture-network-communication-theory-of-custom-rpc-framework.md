@@ -4,8 +4,8 @@ short_title: ''
 description: 本文阐述了自定义rpc框架需要知道理论，并探索了rpc框架需要解决的问题，并且进行了传统的RMI方式的实现。
 date: 2022-04-16 22:45:15
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - rmi

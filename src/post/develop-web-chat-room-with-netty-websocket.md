@@ -4,8 +4,8 @@ short_title: ''
 description: 本通过实战演练，学习了如何基于Netty的websocket开发一个网页聊天室。
 date: 2022-04-27 02:12:26
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - netty
   - websocket

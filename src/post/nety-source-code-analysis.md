@@ -2,11 +2,11 @@
 title: Netty源码剖析
 short_title: ''
 description: 本文介绍了如何通过导入Netty源码并使用Maven构建项目，创建基于EventLoop的线程组。NioEventLoopGroup是多个EventLoop的抽象，每个EventLoop维护一个Selector实例，实现了多线程利用和事件循环。文章主要解释了线程组的创建流程和NioEventLoop的内部实现，包括子线程的创建、选择策略、任务队列等。
-date: '2022-04-21 22:51:01'
+date: 2022-04-21 22:51:01
 category:
-  - 分布式
-  - 后端开发
   - Netty
+  - 后端开发
+  - 分布式
 tag:
   - netty
   - source

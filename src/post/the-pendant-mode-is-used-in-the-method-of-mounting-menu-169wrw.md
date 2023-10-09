@@ -4,8 +4,8 @@ short_title: ''
 description: 挂件模式用挂载菜单的方式使用新特性feat_#挂件模式用挂载菜单的方式使用效果演示​​使用方法现在支持挂件打开窗口了就是还得import一句话import(widgetssypostpublisherlibsiyuanhookjs)​​如果没有添加给出提示​​‍
 date: 2022-12-15 19:06:06
 category:
-  - 作品展示
   - sy-post-publisher
+  - 作品展示
 tag:
   - 挂件
   - 模式

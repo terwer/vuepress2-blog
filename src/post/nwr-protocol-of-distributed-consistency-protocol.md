@@ -4,8 +4,8 @@ short_title: ''
 description: NWR是一种在分布式存储系统中用于控制一致性级别的一种策略。在亚马逊的存储系统中，应用了NWR协议来控制一致性。
 date: 2022-05-04 16:40:44
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - nwr

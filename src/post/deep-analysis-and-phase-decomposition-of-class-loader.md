@@ -4,8 +4,8 @@ short_title: ''
 description: 类加载器深入解析与阶段分解。
 date: 2022-05-05 22:15:55
 category:
-  - JVM新思路
   - 新笔记
+  - JVM新思路
 tag:
   - jvm
   - class

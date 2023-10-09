@@ -3,8 +3,8 @@ title: 机器学习入门
 short_title: ''
 date: 2022-05-05 20:35:43
 category:
-  - 人工智能
   - 机器学习
+  - 人工智能
 tag: []
 article: true
 timeline: false

@@ -4,8 +4,8 @@ short_title: ''
 description: 算法与数据结构知识体系。
 date: 2022-06-05 21:43:26
 category:
-  - 算法与数据结构C++版新思路
   - 新笔记
+  - 算法与数据结构C++版新思路
 tag:
   - data-structure
 article: true

@@ -4,9 +4,9 @@ short_title: ''
 description: Ubuntu直接使用下面的命令默认安装的是MySQL8.0，但是有时候为了兼容我们需要使用MySQL5.7。
 date: 2022-05-16 13:12:35
 category:
+  - 开发流程
   - 开发效率
   - 过程改进
-  - 开发流程
 tag:
   - wsl
   - ubuntu

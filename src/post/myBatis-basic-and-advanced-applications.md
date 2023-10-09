@@ -4,8 +4,8 @@ short_title: ''
 description: mybatis的历史由来mybatis原本是apache软件基金会的一个开源项目叫做ibatis年这个项目由apache迁移到了googlecode管理才改名为mybatis年又迁移到了github。ibatis一词来源于internet和abatis的组合是一个由clintonbegin在年发起的开放源代码项目。mybatis简介mybatis是一个基于orm的半自动轻量级的持久层框架。支持定制化sql存储过程和高级映射。mybatis几乎避免了所有的jdbc代码和手动设置参数与获取结果集。mybati
 date: 2022-08-29 23:59:51
 category:
-  - MyBatis
   - 开源框架
+  - MyBatis
   - 后端开发
 tag:
   - mybatis

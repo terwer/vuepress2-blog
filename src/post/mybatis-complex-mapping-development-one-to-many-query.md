@@ -4,8 +4,8 @@ short_title: ''
 description: 一对多查询模型用户和订单表的关系为一个用户有多个订单一个订单只能属于一个用户。一对多查询需求_查询多有用户与此同时查询用户具有的订单信息。一对多查询语句对应的sql语句selectuoordertimeototalouidfromuseruleftjoinordersoonuid=ouid_查询结果如下_idusernamepasswordbirthdayordertimetotaluidlucy____lucy____tom____代码实现修改user实体用户信息@name_user@author_te
 date: 2022-08-30 13:28:58
 category:
-  - MyBatis
   - 开源框架
+  - MyBatis
   - 后端开发
 tag:
   - mybatis

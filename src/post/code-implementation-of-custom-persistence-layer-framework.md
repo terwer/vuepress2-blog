@@ -4,8 +4,8 @@ short_title: ''
 description: 项目结构├──ipersistence│├──ipersistenceiml│├──pomxml│└──src└──ipersistence_test├──ipersistence_testiml├──pomxml├──src└──target具体代码sqlmapperconfigxml配置文件usermapperxml配置文件selectfromuserselectfromuserwhereid=#{id}andusername=#{username}读取资源处理resources类资源处理类@name
 date: 2022-05-08 19:39:38
 category:
-  - MyBatis
   - 开源框架
+  - MyBatis
   - 后端开发
 tag:
   - 配置文件

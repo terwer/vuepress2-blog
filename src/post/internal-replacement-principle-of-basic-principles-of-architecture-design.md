@@ -4,8 +4,8 @@ short_title: ''
 description: 里式替换阐述了继承的原则，可描述为：子类可以扩展父类的功能，但是不能改变父类原有的功能。
 date: 2022-05-04 17:51:20
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - arch
   - desgin

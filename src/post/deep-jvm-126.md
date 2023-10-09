@@ -4,8 +4,8 @@ short_title: ''
 description: 深入详解JVM
 date: 2022-05-05 22:25:21
 category:
-  - JVM新思路
   - 新笔记
+  - JVM新思路
 tag:
   - jvm
   - class

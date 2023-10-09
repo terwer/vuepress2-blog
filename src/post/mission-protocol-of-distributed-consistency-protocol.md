@@ -4,8 +4,8 @@ short_title: ''
 description: Gossip协议，也叫 Epidemic协议（流行病协议）。原本用于分布式数据库中节点同步数据使用，后来被广泛应用于数据库复制、信息扩散、集群成员身份确认、故障探测等。
 date: 2022-05-04 16:40:57
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - gossip

@@ -4,8 +4,8 @@ short_title: ''
 description: 本文阐述了socket编程、IO网络模型，以及各种IO模型的适用场景。
 date: 2022-04-16 19:03:55
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - arch

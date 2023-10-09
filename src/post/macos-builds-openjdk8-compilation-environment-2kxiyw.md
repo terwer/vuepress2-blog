@@ -2,11 +2,11 @@
 title: macOS搭建openjdk8编译环境
 short_title: ''
 description: 本文介绍了在macOS上编译OpenJDK的环境准备和步骤，包括安装必要的软件和工具，解决常见错误，以及提供了相关资源链接。文章详细讲解了如何配置Xcode、安装ccache、解决编译错误，并提供了编译OpenJDK的命令。适用于想要在macOS上编译OpenJDK的开发者。
-date: '2023-09-19 10:20:28'
+date: 2023-09-19 10:20:28
 category:
-  - JDK源码分析
-  - JDK8
   - 后端开发
+  - JDK8
+  - JDK源码分析
 tag:
   - 编译
   - macos

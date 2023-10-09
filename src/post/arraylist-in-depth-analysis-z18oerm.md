@@ -4,8 +4,8 @@ short_title: ''
 description: 基本方法使用由tostring()​方法提供的默认的转换显示类集的内容tostring()​方法是从abstractcollection()​继承下来的。对于例子来说足够但是通常情况下会重写此方法。publicclassarraylisttest{publicstaticvoidmain(string[]args){arraylistarraylist=newarraylist()_arraylistadd(arraylistadd(arraylistadd(arraylistadd(​strings=(
 date: 2022-10-21 22:28:48
 category:
-  - 后端开发
   - JavaSE
+  - 后端开发
 tag:
   - 结果
   - 包装

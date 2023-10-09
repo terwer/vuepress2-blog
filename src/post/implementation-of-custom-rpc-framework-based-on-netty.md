@@ -4,8 +4,8 @@ short_title: ''
 description: Dubbo底层使用Netty作为网络通讯框架，要求使用Netty实现一个简单的RPC框架，消费者和提供者约定协议和接口，消费者远程调用提供者的服务。
 date: 2022-05-04 16:21:46
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - netty

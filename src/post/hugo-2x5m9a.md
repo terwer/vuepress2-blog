@@ -5,8 +5,8 @@ description: hugo官网theworld’sfastestframeworkforbuildingwebsites_hugo(gohu
 date: 2022-09-27 10:00:30
 category:
   - 平台配置
-  - 作品展示
   - sy-post-publisher
+  - 作品展示
 tag:
   - 博客
   - 推荐

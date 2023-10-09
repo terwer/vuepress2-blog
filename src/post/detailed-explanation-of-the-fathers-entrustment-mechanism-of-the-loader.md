@@ -4,8 +4,8 @@ short_title: ''
 description: 类加载器的父亲委托机制深度详解
 date: 2022-07-06 19:45:48
 category:
-  - JVM新思路
   - 新笔记
+  - JVM新思路
 tag:
   - jvm
   - classloader

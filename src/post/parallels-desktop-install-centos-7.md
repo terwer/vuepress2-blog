@@ -4,9 +4,9 @@ short_title: ''
 description: Parallels Desktop从零开始安装CentOS7。
 date: 2022-05-26 02:40:11
 category:
+  - 开发流程
   - 开发效率
   - 过程改进
-  - 开发流程
 tag:
   - parallels
   - desktop

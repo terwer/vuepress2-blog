@@ -4,8 +4,8 @@ short_title: ''
 description: git系列涉及的内容续git对象类型与索引git分支如何创建切换与删除分支git分支在项目开发中的作用git分支在工程化项目中的最佳实践分支常见重要命令详解
 date: 2022-11-26 18:00:33
 category:
-  - 源代码管理
   - 开发流程
+  - 源代码管理
 tag:
   - git
   - env

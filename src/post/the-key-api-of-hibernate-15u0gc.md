@@ -4,8 +4,8 @@ short_title: ''
 description: hibernate的关键api详解以及上手第一个hibernate项目在java中使用hibernate的步骤​开始hibernate开发​​上手第一个hibernate项目新建项目打开myeclipse新建一个web项目​​项目名称为hibernate配置使用默认（javajavaeejstl）点击finish完成即可。​​集成struts在pomxml​​加上struts的依赖我们使用struts的新版本struts​​webxml​加上对应的过滤器xmlns_xsi=xsi_schemalocati
 date: 2022-10-19 23:14:54
 category:
-  - 后端开发
   - Hibernate
+  - 后端开发
 tag:
   - 使用
   - 步骤

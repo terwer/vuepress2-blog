@@ -4,8 +4,8 @@ short_title: ''
 description: Netty提供异步的、基于事件驱动的网络应用程序框架，用于快速开发高性能、高可靠性的网络IO程序。
 date: 2022-04-18 22:24:15
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - netty
   - nio

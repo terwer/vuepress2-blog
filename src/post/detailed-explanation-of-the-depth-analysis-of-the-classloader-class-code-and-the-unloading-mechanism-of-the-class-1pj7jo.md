@@ -4,8 +4,8 @@ short_title: ''
 description: classloader类源代码深度剖析及类的卸载机制详解类的卸载​反射突破命名空间不同不能调用的限制​​上面一个object转换为sample会报classnotfoundexception下面通过反射调用的可以正常打印结果。反射可以突破不同命名空间的类不能相互访问的限制。由用户自定义的类加载器是可以被卸载的。​​​​​
 date: 2022-08-22 22:21:24
 category:
-  - JVM新思路
   - 新笔记
+  - JVM新思路
 tag:
   - 卸载
   - 反射

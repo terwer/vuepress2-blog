@@ -4,9 +4,9 @@ short_title: ''
 description: docker的centos7中IDEA中文。
 date: 2022-05-24 14:49:54
 category:
+  - 开发流程
   - 开发效率
   - 过程改进
-  - 开发流程
 tag:
   - docker
   - idea

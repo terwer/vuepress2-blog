@@ -4,8 +4,8 @@ short_title: ''
 description: 高可用（Hign Availability）是系统架构中必须考虑的因素之一，指的是，经过设计来减少系统不能提供服务的时间。
 date: 2022-05-04 17:11:27
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - availability

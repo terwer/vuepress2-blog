@@ -4,8 +4,8 @@ short_title: ''
 description: 用一个线程，处理多个客户端连接，就会用到NIO的Selector（选择器）。
 date: 2022-05-04 14:39:42
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - nio
   - selector

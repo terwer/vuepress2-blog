@@ -4,8 +4,8 @@ short_title: ''
 description: 条件运算符（三元表达式）其形式为_typed=a?b_c_​具体化形式为_intd=轻量级的文本编辑器_ultraediteditplusvivimgvim流程控制语句if的用法为_第一种形式_if(布尔表达式){待执行的代码}第二种形式_if(布尔表达式){待执行的代码}else{待执行的代码}第三种形式_javaif(布尔表达式){待执行的代码}elseif(布尔表达式){待执行的代码}elseif(布尔表达式){待执行的代码}else{待执行的代码}switch语句使用形式为_javaswitch(
 date: 2022-10-10 20:33:56
 category:
-  - 后端开发
   - JavaSE
+  - 后端开发
 tag:
   - 执行
   - 代码

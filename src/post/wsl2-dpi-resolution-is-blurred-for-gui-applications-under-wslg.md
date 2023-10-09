@@ -4,9 +4,9 @@ short_title: ''
 description: WSL2在WSLG下面GUI应用程序的DPI分辨率模糊的问题。
 date: 2022-05-18 14:50:53
 category:
+  - 开发流程
   - 开发效率
   - 过程改进
-  - 开发流程
 tag:
   - wsl
   - wsl2

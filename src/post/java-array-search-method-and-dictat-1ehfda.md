@@ -4,8 +4,8 @@ short_title: ''
 description: 数组查找publicclassarraysearchtest{publicstaticvoidmain(string[]args){int[]a=newint[]{}_intvalue=_intresult=search(a)_if(result){systemoutprintln(}else{systemoutprintln(}}publicstaticintsearch(int[]arrayintvalue){intindex=_for(inti=_ii){if(array[i]==value){in
 date: 2022-10-18 22:26:59
 category:
-  - 后端开发
   - JavaSE
+  - 后端开发
 tag:
   - 查找
   - 数组

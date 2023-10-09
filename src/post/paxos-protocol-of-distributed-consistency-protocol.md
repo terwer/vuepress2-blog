@@ -4,8 +4,8 @@ short_title: ''
 description: Paxos协议说的是Paxos算法，Paxos算法是基于消息传递且具有高容错性的一致性算法，是目前公认的解决分布式一致性问题最有效的算法之一。
 date: 2022-05-04 16:41:07
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - paxos

@@ -4,8 +4,8 @@ short_title: ''
 description: 起因近期git更新了最新的版本好多小伙伴突然发现无法访问服务器。gitpull的时候命令行会提示git@gitxxxxxcom_permissiondenied(publickeygssapikeyexgssapiwithmicpassword)莫名的提示我还以为git版本有问题。注意_mac​更新到ventura​​也会有此问题。因为git​随着系统升级到了​。➜sshcd~➜~➜~gitversiongitversion(applegit)原因git版本集成了最新的opensshvp版本此版本放弃了历
 date: 2022-10-26 12:40:57
 category:
-  - 开发效率
   - 开发流程
+  - 开发效率
 tag:
   - 版本
   - 算法

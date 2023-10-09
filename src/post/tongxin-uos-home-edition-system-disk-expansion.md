@@ -4,8 +4,8 @@ short_title: ''
 description: 统信 UOS 家庭版默认安装完成之后系统盘是15G，这样的话如果我们做开发，稍微安装一些类库，系统盘就会爆满。
 date: 2022-06-07 23:34:55
 category:
-  - 统信UOS专区
   - UOS专区
+  - 统信UOS专区
 tag:
   - uos
   - uos-home

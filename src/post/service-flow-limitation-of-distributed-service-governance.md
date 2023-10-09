@@ -4,8 +4,8 @@ short_title: ''
 description: 限流的目的是通过对并发请求进行限速，或者对一个时间窗口内的请求数量进行限速来保护系统。
 date: 2022-05-04 17:31:36
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - service

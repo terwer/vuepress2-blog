@@ -4,9 +4,9 @@ short_title: ''
 description: Zookeeper 的环境搭建。
 date: 2022-05-25 15:22:22
 category:
-  - Zookeeper
   - 分布式框架
   - 后端开发
+  - Zookeeper
 tag:
   - zookeeper
 article: true

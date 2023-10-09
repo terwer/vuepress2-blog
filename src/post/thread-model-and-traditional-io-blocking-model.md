@@ -4,8 +4,8 @@ short_title: ''
 description: 不同的线程模型对性能影响很大，目前存在的线程模型有传统阻塞I/O服务模型、Reactor模型等。
 date: 2022-05-04 15:23:26
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - io
 article: true

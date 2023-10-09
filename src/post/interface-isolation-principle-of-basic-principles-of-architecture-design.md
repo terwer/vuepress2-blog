@@ -4,8 +4,8 @@ short_title: ''
 description: 将接口拆分成更小更具体的接口，让接口中只包含用户感兴趣的方法。
 date: 2022-05-04 17:51:14
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - arch
   - desgin

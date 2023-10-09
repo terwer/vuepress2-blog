@@ -4,8 +4,8 @@ short_title: ''
 description: 代码实现续核心执行引擎executor的实现执行器的实现@name_simpleexecutor@author_terwer@date__classsimpleexecutor_executor{@throws(exception__class)overridefunquery(configuration_configurationmappedstatement_mappedstatementvarargparams_any)_list{注册驱动获取链接valconnection=configuratio
 date: 2022-08-29 22:26:48
 category:
-  - MyBatis
   - 开源框架
+  - MyBatis
   - 后端开发
 tag:
   - custom

@@ -4,8 +4,8 @@ short_title: ''
 description: 用户自定义类加载器探秘
 date: 2022-07-07 21:28:38
 category:
-  - JVM新思路
   - 新笔记
+  - JVM新思路
 tag:
   - jvm
   - classloader

@@ -4,8 +4,8 @@ short_title: ''
 description: ide（integrateddevelopmentenvironment）集成开发环境。netbeans。https_netbeansorgjbuilder。intellijideahttps_wwwjetbrainscomideaeclipse中科大eclipse镜像使用帮助_http_mirrorsustceducnhelpeclipsehtml#ideclipsehelios下载_https_wwweclipseorgdownloadspackagesreleaseheliosr百度网盘下载链接_h
 date: 2022-10-21 21:52:31
 category:
-  - 后端开发
   - JavaSE
+  - 后端开发
 tag:
   - 集成
   - 开发

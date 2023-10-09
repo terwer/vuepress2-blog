@@ -4,8 +4,8 @@ short_title: ''
 description: 本文介绍了Netty编解码器的继承体系、常用API以及实际应用。
 date: 2022-04-21 22:18:53
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - netty
   - codec

@@ -4,8 +4,8 @@ short_title: ''
 description: 检测节点故障的通用手段：心跳检测。
 date: 2022-04-17 01:18:15
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - desgin

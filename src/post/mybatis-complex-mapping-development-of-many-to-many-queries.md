@@ -4,8 +4,8 @@ short_title: ''
 description: 多对多查询的模型用户表和角色表的关系为一个用户有多个角色一个角色被多个用户使用。多对多查询的需求_查询所有用户的同时查询出该用户对应的所有角色。@startuml!themeplaintoptobottomdirectionskinparamlinetypeorthoclasssys_role{rolename_varchar()roledesc_varchar()id_int()}classsys_user_role{userid_int()roleid_int()}classnodeas{userna
 date: 2022-08-30 13:57:41
 category:
-  - MyBatis
   - 开源框架
+  - MyBatis
   - 后端开发
 tag:
   - mybatis

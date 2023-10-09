@@ -4,8 +4,8 @@ short_title: ''
 description: 在WSL2上安装xfce桌面以及中文开发环境的配置。
 date: 2022-05-15 14:18:13
 category:
-  - 开发效率
   - 开发流程
+  - 开发效率
   - 实用技巧
 tag:
   - wsl

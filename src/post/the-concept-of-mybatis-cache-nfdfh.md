@@ -4,8 +4,8 @@ short_title: ''
 description: 缓存回顾缓存就是内存中的数据常常来自对数据库查询结果的保存。使用缓存可以避免频繁与数据库交互进而提高响应速度。mybatis对缓存的支持mybatis也提供了对缓存的支持分为一级缓存和二级缓存。可以用下面的图来理解_​一级缓存是sqlsession级别的缓存。在操作数据库时需要构造sqlsession对象在对象中有一个hashmap的数据结构用于存储缓存数据。不同的sqlsession之间缓存的数据区域（hashmap）是不同的。二级缓存是mapper级别的缓存。多个sqlsession操作同一个mapp
 date: 2022-09-06 00:31:03
 category:
-  - MyBatis
   - 开源框架
+  - MyBatis
   - 后端开发
 tag:
   - 缓存

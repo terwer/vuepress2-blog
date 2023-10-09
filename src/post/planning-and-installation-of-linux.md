@@ -4,8 +4,8 @@ short_title: ''
 description: 第一部份Linux 的规划与安装。
 date: 2022-05-05 22:31:51
 category:
-  - Linux新思路
   - 新笔记
+  - Linux新思路
 tag:
   - linux
 article: true

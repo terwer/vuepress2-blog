@@ -4,8 +4,8 @@ short_title: ''
 description: 统信 UOS 创建统一的自定义环境变量。
 date: 2022-06-08 00:03:30
 category:
-  - 统信UOS专区
   - UOS专区
+  - 统信UOS专区
 tag:
   - uos
   - uos-home

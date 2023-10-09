@@ -4,8 +4,8 @@ short_title: ''
 description: 自定义类加载器与JVM内置加载器交互详析
 date: 2022-07-10 21:42:32
 category:
-  - JVM新思路
   - 新笔记
+  - JVM新思路
 tag:
   - jvm
   - classloader

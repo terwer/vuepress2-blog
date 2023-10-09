@@ -4,8 +4,8 @@ short_title: ''
 description: 注意，此方法已经不推荐。建议使用系统方式安装。
 date: 2022-06-08 01:24:41
 category:
-  - 统信UOS专区
   - UOS专区
+  - 统信UOS专区
 tag:
   - uos
   - uos-home

@@ -4,8 +4,8 @@ short_title: ''
 description: 对于java中的常量的命名规则_所有字母的单词都是大写如果有多个单词那马使用下划线_​连接。​publicstaticfinalintage_of_persion=_​javacollection​​​​​​​​​
 date: 2022-10-19 00:39:57
 category:
-  - 后端开发
   - JavaSE
+  - 后端开发
 tag:
   - 常量
   - 命名

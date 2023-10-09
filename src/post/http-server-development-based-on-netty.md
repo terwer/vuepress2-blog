@@ -4,8 +4,8 @@ short_title: ''
 description: 本通过实战演练，学习了如何基于Netty开发一个HTTP服务器。
 date: 2022-04-27 02:10:49
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - netty
   - http

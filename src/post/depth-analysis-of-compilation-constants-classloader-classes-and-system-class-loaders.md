@@ -4,8 +4,8 @@ short_title: ''
 description: 编译常量、ClassLoader类、系统类加载器深度探析
 date: 2022-07-05 21:15:38
 category:
-  - JVM新思路
   - 新笔记
+  - JVM新思路
 tag:
   - jvm
   - classloader

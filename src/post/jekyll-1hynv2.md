@@ -5,8 +5,8 @@ description: 安装jekyllgeminstalljekyllwithcppflags=i(brewprefixopenssl)includ
 date: 2022-09-27 10:00:37
 category:
   - 平台配置
-  - 作品展示
   - sy-post-publisher
+  - 作品展示
 tag:
   - 安装
   - 查看

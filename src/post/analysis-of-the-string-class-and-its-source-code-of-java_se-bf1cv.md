@@ -4,8 +4,8 @@ short_title: ''
 description: 字符串特性​string​​是常量其对象一旦创建就无法改变。当使用​​​拼接字符串时会生成新的string​​​对象而不是向原有的string​​​对象追加内容。查看字节码javapjavapccomterwergreenstrstringnewtestjava源代码publicclassstringnewtest{publicstaticvoidmain(string[]args){stringstr=newstring(}}字节码_➜javasetestgit_(master)✗javapcconst
 date: 2022-10-15 20:26:52
 category:
-  - 后端开发
   - JavaSE
+  - 后端开发
 tag:
   - 对象
   - 字符串

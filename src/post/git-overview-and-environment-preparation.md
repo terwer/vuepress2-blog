@@ -4,8 +4,8 @@ short_title: ''
 description: linux环境配置zsh快捷操作输入命令之后按下tab​按键可以在命令之间选择zshenv与zshrc的区别_zshenv​始终是source的也就是说一直生效但是zshrc​只是活跃的shell生效另外zshrc会覆盖zshenv的设置。linux常用命令​ctrll​可以快速清屏vi中设置行号__setnumber​vi中的滚屏_​ctrlf​_向下滚屏​ctrlb​_向上滚屏​shiftg​_最后一行vi中跳转到某一行__​直接定位到行vi中dd​直接删除某一行新建文件_touchtesttxt​查
 date: 2022-11-26 17:37:47
 category:
-  - 源代码管理
   - 开发流程
+  - 源代码管理
 tag:
   - 命令
   - 配置

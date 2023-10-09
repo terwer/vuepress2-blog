@@ -4,9 +4,9 @@ short_title: ''
 description: 第一个年发布的alpha和betajava公开版本api和abi非常不稳定。支持javaweb浏览器被取名为webrunner。‍
 date: 2022-09-30 21:17:45
 category:
-  - Java语言新特性
-  - 后端开发
   - JavaSE
+  - 后端开发
+  - Java语言新特性
 tag:
   - 第一个
   - 发布

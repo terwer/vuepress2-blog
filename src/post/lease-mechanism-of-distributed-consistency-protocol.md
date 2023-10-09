@@ -4,8 +4,8 @@ short_title: ''
 description: Lease机制，就是租约机制，是一种在分布式协议中常用的协议，是维护分布式系统中数据一致性的常用工具。
 date: 2022-05-04 16:41:25
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - rpc
   - lease

@@ -5,8 +5,8 @@ description: 官网https_hexoiozhcn准备工作npminstallhexoclighexoinithexoblo
 date: 2022-12-01 14:36:10
 category:
   - 平台配置
-  - 作品展示
   - sy-post-publisher
+  - 作品展示
 tag:
   - 准备
   - 工作

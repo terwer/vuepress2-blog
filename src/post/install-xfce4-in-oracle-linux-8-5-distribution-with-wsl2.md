@@ -4,9 +4,9 @@ short_title: ''
 description: 在WSL2的Oracle Linux8.5发行版中安装xfce4。
 date: 2022-05-18 17:12:09
 category:
+  - 开发流程
   - 开发效率
   - 过程改进
-  - 开发流程
 tag:
   - wsl2
   - oracle

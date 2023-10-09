@@ -4,8 +4,8 @@ short_title: ''
 description: 开闭原则：软件实体应该对扩展开放，对修改关闭
 date: 2022-04-17 01:20:03
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - arch
   - desgin

@@ -4,8 +4,8 @@ short_title: ''
 description: 原因：文件监视程序的系统产生了限制，达到了默认的上限，需要增加限额。
 date: 2022-06-08 01:08:53
 category:
-  - 统信UOS专区
   - UOS专区
+  - 统信UOS专区
 tag:
   - uos
   - uos-home

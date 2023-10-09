@@ -4,8 +4,8 @@ short_title: ''
 description: Netty的设计主要基于主从Reactor的多线程模式，并做了一定的改进。
 date: 2022-05-04 15:27:07
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - reactor
   - netty

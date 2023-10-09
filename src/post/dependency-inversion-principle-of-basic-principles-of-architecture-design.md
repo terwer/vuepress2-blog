@@ -4,8 +4,8 @@ short_title: ''
 description: 原始定义：高层模块不要依赖低层模块，两种都应该依赖抽象。抽象不应该依赖细节，细节应该依赖抽象。
 date: 2022-05-04 17:51:25
 category:
-  - 分布式
   - 后端开发
+  - 分布式
 tag:
   - arch
   - desgin
