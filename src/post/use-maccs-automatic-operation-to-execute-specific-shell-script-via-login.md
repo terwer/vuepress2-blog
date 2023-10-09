@@ -4,8 +4,8 @@ short_title: ''
 description: 利用macOS的自动操作可以大大的提升我们的工作效率。
 date: 2022-06-15 10:06:27
 category:
-  - MAC转区
   - macOS专区
+  - MAC转区
 tag:
   - mac
   - macos

@@ -4,8 +4,8 @@ short_title: ''
 description: 和传统单体架构相比，分布式多了一个远程服务之间的通信，不管soa还是微服务，本质都是对业务服务的提炼和复用。
 date: 2022-05-04 17:08:29
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - rpc
   - service

@@ -4,8 +4,8 @@ short_title: ''
 description: 使用vagrant搭建可移植的跨平台的开发环境。
 date: 2022-05-16 12:22:35
 category:
-  - 过程改进
   - 开发效率
+  - 过程改进
   - 开发流程
 tag:
   - ubuntu

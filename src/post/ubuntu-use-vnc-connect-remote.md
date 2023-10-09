@@ -4,8 +4,8 @@ short_title: ''
 description: 使用vnc远程ubuntu
 date: 2022-05-19 00:11:11
 category:
-  - 过程改进
   - 开发效率
+  - 过程改进
   - 开发流程
 tag:
   - ubuntu

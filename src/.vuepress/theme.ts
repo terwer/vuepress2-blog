@@ -16,7 +16,7 @@ export default hopeTheme({
 
     logo: "/logo.svg",
 
-    repo: "terwer/zhi/tree/dev/packages/zhi-blog-vuepress",
+    repo: "terwer/vuepress2-blog",
 
     docsDir: "docs",
 
@@ -83,7 +83,7 @@ export default hopeTheme({
                 ],
             },
 
-            footer: "默认页脚",
+            footer: "浅海拾贝",
 
             displayFooter: true,
 
@@ -157,7 +157,7 @@ export default hopeTheme({
                 ],
             },
 
-            footer: "默认页脚",
+            footer: "浅海拾贝",
 
             displayFooter: true,
 

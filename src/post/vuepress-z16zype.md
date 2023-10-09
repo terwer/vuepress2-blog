@@ -5,8 +5,8 @@ description: 特别提示注意_这个是vuepress源码目录结构不是构建�
 date: 2022-09-27 09:54:18
 category:
   - 平台配置
-  - sy-post-publisher
   - 作品展示
+  - sy-post-publisher
 tag:
   - 源码
   - 目录

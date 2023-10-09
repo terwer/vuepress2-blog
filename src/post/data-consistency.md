@@ -4,8 +4,8 @@ short_title: ''
 description: 分布性数一致性，指的是数据在多份副本中存储时，各副本中的数据是一致的。
 date: 2022-04-28 23:28:27
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - rpc
   - consistence

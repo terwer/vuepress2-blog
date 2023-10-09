@@ -4,8 +4,8 @@ short_title: ''
 description: NIO中所有的IO都是从通道（Channel）开始的。NIO的通道类似于流，但是有区别。
 date: 2022-05-04 14:39:34
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - nio
   - channel

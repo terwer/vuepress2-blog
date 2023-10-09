@@ -5,8 +5,8 @@ description: Java NIO，全称为java non-blocking IO，是指JDK提供得到新
   IO），是同步非阻塞的。
 date: 2022-05-04 14:35:45
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - nio
 article: true

@@ -4,8 +4,8 @@ short_title: ''
 description: 怎么在SpringBoot的maven插件中设置命令行参数呢?
 date: 2022-05-04 22:59:17
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - spring
   - boot

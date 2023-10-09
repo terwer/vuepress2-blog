@@ -4,8 +4,8 @@ short_title: ''
 description: 脚本编程与交互式编程。
 date: 2022-06-05 22:18:57
 category:
-  - 大数据开发新思路
   - 新笔记
+  - 大数据开发新思路
 tag:
   - python
 article: true

@@ -4,9 +4,9 @@ short_title: ''
 description: 年月日发布代号为playground。该版本到jse为止的后续版本被更名为java而版本名称“jse”（java平台标准版）取代jdk以区别jee（java平台企业版）和jme（javaplatformmicroedition）基础平台。这是java的一个非常重要的版本它将java平台的大小增加至原先的三倍在个程序包中达到了个类。主要增加包括_[]主要特性strictfp关键字参考java中不常见的关键字_strictfptransient​主类别中集成了swing)图像化api首次为sun提供的jvm配
 date: 2022-10-01 00:14:53
 category:
+  - Java语言新特性
   - 后端开发
   - JavaSE
-  - Java语言新特性
 tag:
   - 平台
   - 版本

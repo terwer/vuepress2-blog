@@ -5,8 +5,8 @@ description: mybatis的常用注解注解可以减少mapper文件的编写常用
 date: 2022-08-30 17:12:42
 category:
   - MyBatis
-  - 后端开发
   - 开源框架
+  - 后端开发
 tag:
   - mybatis
   - annotation
@@ -52,7 +52,7 @@ jdbc.password=123456
 
 sqlMapConfig.xml
 
-```
+```xml
 <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
@@ -220,6 +220,8 @@ public interface UserMapper {
 </code-group>
 
 结果测试
+
+</code-group>
 
 UserMapper
 

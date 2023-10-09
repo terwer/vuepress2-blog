@@ -5,8 +5,8 @@ description: mybatis的历史由来mybatis原本是apache软件基金会的一�
 date: 2022-08-29 23:59:51
 category:
   - MyBatis
-  - 后端开发
   - 开源框架
+  - 后端开发
 tag:
   - mybatis
   - framework

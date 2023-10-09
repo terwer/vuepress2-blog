@@ -3,8 +3,8 @@ title: JavaSE阅读目录
 short_title: ''
 date: 2022-05-08 23:06:12
 category:
-  - 阅读目录
   - 页面
+  - 阅读目录
 tag:
   - javase
   - menu

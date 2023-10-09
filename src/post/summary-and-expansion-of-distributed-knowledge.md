@@ -4,8 +4,8 @@ short_title: ''
 description: 本文对分布式架构知识进行了拓展与总结，并对架构演进的历程进行了回顾。
 date: 2022-05-04 15:58:49
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - summary
   - rpc

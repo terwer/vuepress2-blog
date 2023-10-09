@@ -4,8 +4,8 @@ short_title: ''
 description: Python环境搭建。
 date: 2022-05-31 22:48:14
 category:
-  - 大数据开发新思路
   - 新笔记
+  - 大数据开发新思路
 tag:
   - python
   - env

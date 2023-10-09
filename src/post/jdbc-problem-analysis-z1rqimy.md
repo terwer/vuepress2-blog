@@ -5,8 +5,8 @@ description: jdbc的问题分析核心实现packagetest_importjavasqlconnection_
 date: 2022-08-27 16:16:11
 category:
   - MyBatis
-  - 后端开发
   - 开源框架
+  - 后端开发
 tag:
   - 数据库
   - mybatis

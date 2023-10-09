@@ -4,8 +4,8 @@ short_title: ''
 description: 本文分析了分布式架构应用广泛的理论。
 date: 2022-04-17 01:10:53
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - rpc
 article: true

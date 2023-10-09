@@ -4,8 +4,8 @@ short_title: ''
 description: 阿里云安装桌面环境及VNC连接。
 date: 2022-05-16 12:24:49
 category:
-  - 过程改进
   - 开发效率
+  - 过程改进
   - 开发流程
 tag:
   - xfce

@@ -5,8 +5,8 @@ description: IDEA的大坑：src目录丢失Source Root标记就不会编译。�
   Root 标记，那么编译的时候是不会生成 class 文件的。
 date: 2022-05-11 23:50:42
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - idea
   - src

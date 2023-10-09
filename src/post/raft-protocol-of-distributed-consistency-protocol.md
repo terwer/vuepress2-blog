@@ -4,8 +4,8 @@ short_title: ''
 description: 斯坦福大学的RamCloud项目中提出了易理解、易实现的分布式一致性复制协议Raft。C++、Java和Go都有对应的实现，Raft相对简洁。引入主节点、通过竞选确认主节点。节点；类型：follower、candidate和leader。
 date: 2022-05-04 16:41:17
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - rpc
   - raft

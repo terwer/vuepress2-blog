@@ -5,8 +5,8 @@ description: 快速入门mybatis的官网_https_mybatisorgmybatismybatis的开�
 date: 2022-08-30 00:29:58
 category:
   - MyBatis
-  - 后端开发
   - 开源框架
+  - 后端开发
 tag:
   - mybatis
   - basic
@@ -24,7 +24,7 @@ Mybatis的官网：[https://mybatis.org/mybatis-3/](https://mybatis.org/mybatis-
 
 ### 添加MyBatis的坐标
 
-```
+```xml
 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
@@ -152,7 +152,7 @@ public class User {
 
 ### 编写映射⽂件UserMapper.xml
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
@@ -166,7 +166,7 @@ public class User {
 
 ### 编写核⼼⽂件SqlMapConfig.xml
 
-```
+```xml
 <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
@@ -536,28 +536,74 @@ public void test5() throws IOException {
 > 文章更新历史  
 > 2022/05/08 feat:新增Kotlin支持
 
+<div>
 <code-group>
+</div>
 
+<div>
 <code-block title="Kotlin" active>
-</code-block>
+</div>
 
+<div>
+</code-block>
+</div>
+
+<div>
 <code-block title="Java">
+</div>
+
+<div>
 </code-block>
+</div>
 
+<div>
 </code-group>
+</div>
 
+<div>
 <code-group>
+</div>
+
+<div>
 <code-block title="Kotlin" active>
-</code-block>
+</div>
 
+<div>
+</code-block>
+</div>
+
+<div>
 <code-block title="Java">
-</code-block>
-</code-group>
+</div>
 
+<div>
+</code-block>
+</div>
+
+<div>
+</code-group>
+</div>
+
+<div>
 <code-group>
-<code-block title="Kotlin" active>
-</code-block>
+</div>
 
-<code-block title="Java">
+<div>
+<code-block title="Kotlin" active>
+</div>
+
+<div>
 </code-block>
+</div>
+
+<div>
+<code-block title="Java">
+</div>
+
+<div>
+</code-block>
+</div>
+
+<div>
 </code-group>
+</div>

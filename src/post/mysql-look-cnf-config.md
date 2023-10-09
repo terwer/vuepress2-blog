@@ -4,8 +4,8 @@ short_title: ''
 description: mysql查看my.cnf位置。
 date: 2022-05-24 14:49:54
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - mysql
   - config

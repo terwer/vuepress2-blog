@@ -4,8 +4,8 @@ short_title: ''
 description: 当Mac升级到macOS Monterey 12.3之后，你会发现 python2 不见了，输入 python 也提示 找不到。
 date: 2022-05-09 01:56:02
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - macos
   - monterey

@@ -4,8 +4,8 @@ short_title: ''
 description: 本文通过一个Netty入门案例来阐述Netty的异步模型。
 date: 2022-04-21 21:21:40
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - netty
   - async

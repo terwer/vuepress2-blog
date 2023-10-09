@@ -5,8 +5,8 @@ description: mybatis的二级缓存整合redismybatis自带的二级缓存存在
 date: 2023-02-13 21:12:10
 category:
   - MyBatis
-  - 后端开发
   - 开源框架
+  - 后端开发
 tag:
   - 二级缓存
   - 使用

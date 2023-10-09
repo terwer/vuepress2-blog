@@ -4,8 +4,8 @@ short_title: ''
 description: MySQL57查看与修改数据库编码为utf8。
 date: 2022-05-28 01:27:20
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - mysql
   - mysql57

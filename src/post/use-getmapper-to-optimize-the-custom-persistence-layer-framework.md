@@ -5,8 +5,8 @@ description: 问题分析dao层使用持久层框架存在代码重复整个操�
 date: 2022-08-29 23:43:59
 category:
   - MyBatis
-  - 后端开发
   - 开源框架
+  - 后端开发
 tag:
   - custom
   - dao

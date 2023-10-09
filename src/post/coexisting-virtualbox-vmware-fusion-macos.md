@@ -5,8 +5,8 @@ description: VirtualBox 和 VMWare Fusion 都是简洁的虚拟化工具。我�
   VirtualBox，通常用于与 Vagrant 一起工作。
 date: 2022-05-09 12:05:29
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - macos
   - virtualbox

@@ -3,8 +3,8 @@ title: git修改提交的用户名
 short_title: ''
 date: 2022-06-13 10:35:55
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - git
 article: true

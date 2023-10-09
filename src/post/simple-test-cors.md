@@ -4,8 +4,8 @@ short_title: ''
 description: CORS的简单测试方法。
 date: 2022-06-16 02:05:19
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - cors
   - xhr

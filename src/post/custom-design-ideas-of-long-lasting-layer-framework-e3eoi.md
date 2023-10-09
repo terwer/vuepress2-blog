@@ -5,8 +5,8 @@ description: 核心要点解析配置文件数据库配置信息sql的封装构�
 date: 2022-08-27 16:17:11
 category:
   - MyBatis
-  - 后端开发
   - 开源框架
+  - 后端开发
 tag:
   - custom
   - dao

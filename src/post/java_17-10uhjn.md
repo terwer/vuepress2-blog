@@ -4,9 +4,9 @@ short_title: ''
 description: java发布于年月日。java版本是切换到新的个月发布周期以来的第二个长期支持（lts）版本（第一个是java）[]。主要特性这次更新共带来个新功能。openjdkjava文档_https_openjdkjavanetprojectsjdkjep描述jep恢复始终严格的浮点语义jep增强的伪随机数生成器jep使用新的macos渲染库jep支持macosaarch架构jep删除已启用的appletapijep更强的封装jdk内部封装jepswitch模式匹配（预览）jep移除rmiactivationjep
 date: 2022-10-08 01:07:50
 category:
+  - Java语言新特性
   - 后端开发
   - JavaSE
-  - Java语言新特性
 tag:
   - 下载
   - 发布

@@ -5,8 +5,8 @@ description: mybatis基本流程利用resources工具类加载配置文件并转
 date: 2022-08-30 10:52:07
 category:
   - MyBatis
-  - 后端开发
   - 开源框架
+  - 后端开发
 tag:
   - 配置
   - 事务

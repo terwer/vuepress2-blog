@@ -4,8 +4,8 @@ short_title: ''
 description: 第一个c语言程序#includemain(){printf(}保存文件为helloc编译cchelloc运行aout如下➜clangcodecchellochelloc___warning_typespecifiermissingdefaultstoint[wimplicitint]main(){^warninggenerated➜clangcodeaouthelloworld!分析#include包含有关标准库的信息main(){定义main函数不接受参数main函数的语句包含在花括号中printf(m
 date: 2022-10-13 11:20:25
 category:
-  - 读书笔记
   - C程序设计语言
+  - 读书笔记
 tag:
   - 第一个
   - 语言

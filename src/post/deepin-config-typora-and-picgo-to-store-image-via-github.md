@@ -4,8 +4,8 @@ short_title: ''
 description: Deepin配置Typora和PicGo实现GitHub图床。
 date: 2022-06-01 01:30:19
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - deepin
   - picgo

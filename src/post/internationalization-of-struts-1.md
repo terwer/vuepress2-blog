@@ -4,8 +4,8 @@ short_title: ''
 description: Struts1实现国际化的方法。
 date: 2022-05-07 20:57:08
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - struts1
 article: true

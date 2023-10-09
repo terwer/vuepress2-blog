@@ -5,8 +5,8 @@ description: CAP定理（CAP Theorem），又称布鲁尔定理（Brewer's thror
   tolarence）。
 date: 2022-04-28 23:29:39
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - rpc
   - cap

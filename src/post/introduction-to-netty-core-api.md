@@ -4,8 +4,8 @@ short_title: ''
 description: 本文介绍了Netty的核心API以及他们的使用。
 date: 2022-04-21 22:09:35
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - netty
   - api

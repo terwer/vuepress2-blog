@@ -4,8 +4,8 @@ short_title: ''
 description: 通过一个或者多个输入传递给服务器的模式，服务端程序处理传入的多个请求，并将他们同步分派到处理线程，Reactor模式也叫Dispatch模式。
 date: 2022-05-04 15:25:48
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - io
   - reactor

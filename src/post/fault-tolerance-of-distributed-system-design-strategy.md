@@ -4,8 +4,8 @@ short_title: ''
 description: 容错处理保障了分布式系统环境下相应系统高可用和健壮性。
 date: 2022-05-04 17:11:32
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - error
   - tolerant

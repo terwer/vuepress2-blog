@@ -4,8 +4,8 @@ short_title: ''
 description: 在Docker中部署confluence和jira。
 date: 2022-06-01 14:48:24
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - docker
   - confluence

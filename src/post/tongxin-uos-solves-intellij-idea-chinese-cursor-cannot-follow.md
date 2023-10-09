@@ -4,8 +4,8 @@ short_title: ''
 description: 统信 UOS 解决 Intellij IDEA 中文光标不能跟随。
 date: 2022-06-08 02:15:08
 category:
-  - UOS专区
   - 统信UOS专区
+  - UOS专区
 tag:
   - uos
   - uos-home

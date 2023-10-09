@@ -4,8 +4,8 @@ short_title: ''
 description: Mac Big Sur 安装CocoaPods。
 date: 2022-05-05 21:19:01
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - mac
   - cocoapods

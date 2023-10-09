@@ -4,8 +4,8 @@ short_title: ''
 description: Linux获取文件名以及后缀名。
 date: 2022-05-11 23:50:25
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - linux
   - file

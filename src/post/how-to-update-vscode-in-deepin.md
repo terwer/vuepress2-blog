@@ -4,8 +4,8 @@ short_title: ''
 description: 原因：deepin商店的vscode跟我们自己下载的不是同一个包。解决：先卸载之前安装的vscode，然后重新下载deb安装包自己安装即可。
 date: 2022-06-07 18:26:06
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - deepin
   - vscode

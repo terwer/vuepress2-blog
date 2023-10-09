@@ -4,8 +4,8 @@ short_title: ''
 description: 探索一下WSL上Ubuntu的包管理工具。
 date: 2022-05-18 16:14:54
 category:
-  - 过程改进
   - 开发效率
+  - 过程改进
   - 开发流程
 tag:
   - wsl

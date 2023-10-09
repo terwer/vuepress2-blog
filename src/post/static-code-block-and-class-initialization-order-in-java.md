@@ -4,8 +4,8 @@ short_title: ''
 description: Java中的静态代码块、构造代码块、构造函数以及Java类初始化顺序。类调用时，先执行静态代码块，然后才执行主函数的。执行顺序优先级：静态块、main()、构造块、构造方法、实例方法。
 date: 2012-05-11 00:07:00
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - javase
   - static

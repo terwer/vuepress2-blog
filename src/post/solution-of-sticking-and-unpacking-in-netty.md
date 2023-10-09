@@ -4,8 +4,8 @@ short_title: ''
 description: 粘包和拆包是TCP网络编程中不可避免的，无论是服务端和客户端，当读取或发送消息时，都需要考虑TCP底层的粘包/拆包机制。
 date: 2022-04-27 02:13:37
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - netty
   - bag

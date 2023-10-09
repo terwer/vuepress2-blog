@@ -4,8 +4,8 @@ short_title: ''
 description: Confluence安装MetaWeblogApi插件配合MWeb打造知识库，官方插件使用文档。
 date: 2022-03-28 01:20:55
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - confluence
   - metaweblog

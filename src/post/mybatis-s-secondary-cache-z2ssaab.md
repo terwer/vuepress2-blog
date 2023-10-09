@@ -5,8 +5,8 @@ description: mybatis的二级缓存二级缓存的原理二级缓存的原理和
 date: 2022-09-24 22:38:54
 category:
   - MyBatis
-  - 后端开发
   - 开源框架
+  - 后端开发
 tag:
   - 二级缓存
   - mybatis

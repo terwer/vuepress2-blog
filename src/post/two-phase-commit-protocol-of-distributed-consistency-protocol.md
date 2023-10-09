@@ -4,8 +4,8 @@ short_title: ''
 description: 两阶段提交协议，简称2PC（2 prepare commit），是比较常见的解决分布式事务的方式。要么所有参与进程都提交事务，要么都取消事务，即实现ACID中的原子性（A）的常用手段。
 date: 2022-04-17 01:12:54
 category:
-  - 后端开发
   - 分布式
+  - 后端开发
 tag:
   - rpc
   - 2pc

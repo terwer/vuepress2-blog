@@ -4,8 +4,8 @@ short_title: ''
 description: 在中英文（英中文）之间加入一个空格，只需要在 vim 中使用如下命令。
 date: 2022-06-01 12:08:47
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - vim
   - space

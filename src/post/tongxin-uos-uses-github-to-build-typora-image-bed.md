@@ -4,8 +4,8 @@ short_title: ''
 description: 统信 UOS 利用 Github 打造 Typora 图床。
 date: 2022-06-08 01:32:07
 category:
-  - UOS专区
   - 统信UOS专区
+  - UOS专区
 tag:
   - uos
   - uos-home

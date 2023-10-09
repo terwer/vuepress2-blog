@@ -5,8 +5,8 @@ description: 今天，IDEA用的好好的，重启之后却发现，字体被重
   Micro Hei 和 Wenquanyi Micro Hei Mono。
 date: 2022-06-15 02:15:26
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - wine
   - wenquan

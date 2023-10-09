@@ -4,8 +4,8 @@ short_title: ''
 description: docker中的centos7安装中文输入法。
 date: 2022-05-24 14:49:54
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - docker
   - centos7

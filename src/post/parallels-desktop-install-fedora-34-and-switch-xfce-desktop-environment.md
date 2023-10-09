@@ -5,8 +5,8 @@ description: 在 Parallels Desktop 上默认下载安装了最新的 Fedora34 �
   环境。如果想要切换成xfce4，可以按照以下操作。
 date: 2022-05-25 23:28:14
 category:
-  - 过程改进
   - 开发效率
+  - 过程改进
   - 开发流程
 tag:
   - parallels

@@ -4,9 +4,9 @@ short_title: ''
 description: 版本历史第一个版本于年月日发布叫做为oak[]。而真正第一个稳定的版本jdk被称作java。[]总结java其实做了两件主要的事情_awt和applet。英文原文_javawasnotableprimarilyfortwothingsfirstitdefinedanabstractwindowingtoolkit(awt)forthecreationofportablegraphicaluserinterfaces(guis)seconditdefinedappletsawayinwhichwebbrow
 date: 2022-09-30 21:20:47
 category:
+  - Java语言新特性
   - 后端开发
   - JavaSE
-  - Java语言新特性
 tag:
   - 第一个
   - 版本

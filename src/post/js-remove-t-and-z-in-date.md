@@ -4,8 +4,8 @@ short_title: ''
 description: 在JS中，创建的时间有时候会默认带有T和Z，不利于显示，可以使用这个方法去除。
 date: 2022-06-15 02:18:51
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - js
   - date

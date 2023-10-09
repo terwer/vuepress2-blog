@@ -4,8 +4,8 @@ short_title: ''
 description: Deepin20.5安装docker与docker-compose。
 date: 2022-05-30 20:27:00
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - docker
   - compose

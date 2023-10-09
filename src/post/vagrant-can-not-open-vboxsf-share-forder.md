@@ -4,8 +4,8 @@ short_title: ''
 description: vagrant用户无法访问vboxsf的共享文件夹解决方案，将vagrant用户添加到vboxsf用户组即可。
 date: 2022-05-13 02:21:47
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - vagrant
   - virtualbox

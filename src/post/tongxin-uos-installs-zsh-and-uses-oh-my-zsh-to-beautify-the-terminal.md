@@ -4,8 +4,8 @@ short_title: ''
 description: 注意：此操作之前请先安装 git。参考我的文章：统信 UOS 基本开发环境搭建之 git。
 date: 2022-06-07 23:53:43
 category:
-  - UOS专区
   - 统信UOS专区
+  - UOS专区
 tag:
   - uos
   - uos-home

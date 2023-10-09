@@ -4,8 +4,8 @@ short_title: ''
 description: 在ubuntu中，升级emacs到最新版本（非源码安装）
 date: 2022-05-18 17:54:17
 category:
-  - 过程改进
   - 开发效率
+  - 过程改进
   - 开发流程
 tag:
   - ubuntu

@@ -4,8 +4,8 @@ short_title: ''
 description: 在做SpringBoot集成页面的时候，发现不能直接访问页面或者静态资源，都是报404，可以试试在pom.xml的build里面加入代码（不想用jsp，只想用html或者其他的可以采用这种方式）。
 date: 2022-05-06 15:28:53
 category:
-  - 实用技巧
   - 经验分享
+  - 实用技巧
 tag:
   - springboot
   - webapp
