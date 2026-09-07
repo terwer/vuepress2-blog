@@ -40,4 +40,4 @@ isOriginal: true
 
 ## 总结
 
-发布验证完成。（已更新 Vuepress 内容）
+发布验证完成。（已更新 Vuepress2 内容）
